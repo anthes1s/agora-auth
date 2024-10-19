@@ -2,7 +2,6 @@ package authctx
 
 import (
 	"context"
-	"errors"
 	"os"
 	"regexp"
 
